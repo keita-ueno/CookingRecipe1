@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>150447085297-3b35ahie2htctmvsqqckl5lc3kn8e37q.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.150447085297-3b35ahie2htctmvsqqckl5lc3kn8e37q</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEBXClbHfpOAlfSFn9ASSPoxUSIUAiFJ0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>150447085297</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.uenodemy.CookingRecipe1</string>
+	<key>PROJECT_ID</key>
+	<string>swiftcookingrecipe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftcookingrecipe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:150447085297:ios:44d533a41a6ab6a247bb50</string>
+</dict>
+</plist>
